@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        echo "Está parte está sendo criada pelo PHP!"; 
+        echo "Esta parte está sendo criada pelo PHP!"; 
     ?>
 </body>
 </html>
